@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CoinTossing {
+public class FindTheMinimum {
     static Scanner input = new Scanner(System.in);
 
     public static void main(String[] args) {
